@@ -1,3 +1,5 @@
+#Короленко Ульяна
+#Вариант 2
 with open ("text.txt", "r", encoding="utf-8") as file: #oткрываем файл
     a = file.read() #cохраняем данные файла в переменной a
     list = a.split() #cохраняем слова в список b
